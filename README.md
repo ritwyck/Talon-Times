@@ -50,5 +50,3 @@ Talon-Times/
 ## 🐶 Why "Talon Times"?
 
 Because like Talon, it’s attentive, quick to respond, and never misses the important bits.
-
-```
